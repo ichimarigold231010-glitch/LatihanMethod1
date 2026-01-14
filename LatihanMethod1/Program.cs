@@ -11,3 +11,15 @@ void kurang()
     c = a - b;
     Console.WriteLine($"{a} - {b} = {c}");
 }
+
+void kali()
+{
+    c = a * b;
+    Console.WriteLine($"{a} * {b} = {c}");
+}
+
+void bagi()
+{
+    c = a + b;
+    Console.WriteLine($"{a} / {b} = {c}");
+}
