@@ -23,3 +23,9 @@ void bagi()
     c = a + b;
     Console.WriteLine($"{a} / {b} = {c}");
 }
+
+tambah();
+kurang();  
+tambah();
+kali();
+bagi();
